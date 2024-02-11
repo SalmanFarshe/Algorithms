@@ -14,35 +14,5 @@ int main()
     printf("n = 10 then count is 100\n");
     printf("n = n then count is n*n\n");
     printf("Complexity for result = %d is O(n^2)", count);
-        return 0;
+    return 0;
 }
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/SalmanFarshe/Algorithms.git
-git push -u origin main
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
