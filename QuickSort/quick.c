@@ -42,7 +42,7 @@ void quickSort(int arr[], int low, int high) {
         // Partitioning index
         int pi = partition(arr, low, high);
 
-        // Sorting elements before and after partition
+        // Sorting elements before and after partition           
         quickSort(arr, low, pi - 1);
         quickSort(arr, pi + 1, high);
     }
