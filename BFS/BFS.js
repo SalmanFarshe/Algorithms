@@ -22,4 +22,18 @@ function bfs(graph, start) {
   }
   return result;
 }
-console.log(bfs(graph, "A")); // Output: [ 'A', 'B', 'D', 'C', 'E', 'F' ]
+console.log(bfs(graph, "A"));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
